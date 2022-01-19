@@ -1,0 +1,33 @@
+{
+   "Menu" : "Ola bem vindo ao atendimento Com4 Data Center, selecione a opção desejada informando apenas o número:\n\n1️⃣ - Segunda via para pagamento de boleto. 🧾\n\n2️⃣ - Envio de comprovante para desbloqueio do serviço. 🔓\n\n3️⃣ - Suporte a minha internet. 🖥️\n\n4️⃣ - Alterar a data de vencimento de meus boletos. 📅\n\n5️⃣ - Contratar serviço.\n\n 🤝Caso sua dúvida não esteja disponível em nosso menu, por gentileza, entre em contato com nossa Central de Atendimento no telefone 0800-341-1244 ou (16)3706-8000.\n\n🔸 💳 Pensando em sua comodidade a Com4 Data Center disponibilizou em seus meios de pagamento a modalidade de cartão de crédito, caso deseje maiores informações entre em contato com nossa central de atendimento no telefone (16)3706-8000.  💳 🔸",
+   
+    "opcoes" : {
+        "primeira" : {
+            "op1": "Por gentileza, nos informe o CPF ou CNPJ do seu cadastro: ",
+            "resposta": "O CPF/CNPJ informado sera validado e dentro de alguns instantes você receberá a segunda via desejada!"
+        },
+
+        "segunda" : {
+            "texto": "Você selecionou a opção 1\n\nSua internet não está funcionando? Digite a opção numérica:\n\n1 - Meu modem apresenta luz vermelha.\n\n2 - Meu modem não apresenta luz vermelha, porém não consigo navegar.",
+            "op1": "Comprovante verificado e realizado o desbloqueio do link. \n\n🟠 Caso o pagamento não seja processado pelo banco no período de 24h, o serviço esta sujeito a restrição. 🟠\n\nA Com4 agradece seu contato!"
+        },
+        
+        "terceira" : {
+            "texto" : "Você selecionou a opção 1\n\nSua internet não está funcionando? Digite a opção numérica:\n\n1 - Meu modem apresenta luz vermelha.\n\n2 - Meu modem não apresenta luz vermelha, porém não consigo navegar.",
+            "op1" : "Você informou que seu modem apresenta luz vermelha.\n\nIsto indica que não há comunicação entre o modem e a fibra, realize os procedimentos abaixo, para tentar restabelecer a conexão:\n\nDesligue o seu modem da marca Fiberhome pressionando um botão redondo posicionado na parte posterior do equipamento.\n\nHá um cordão amarelo ao lado deste botão que foi pressionado, este cordão nada mais é que a fibra ótica, portanto não é indicado torcer este cordão ou dar 'nós'.\n\nRemova o cordão do modem, aguarde cerca de 10 segundos e reconecte o cordão.\n\nLigue o modem pressionando o botão que foi apertado no início do procedimento. \n\nAguarde aproximadamente 60 segundos.\n\nCaso a luz vermelha não acenda, significa que o modem apresenta conexão novamente. Para realizar testes, basta você conectar uma ponta de um cabo de rede em um notebook ou Smart-Tv, e a outra ponta na entrada 1 de cabo de rede do modem Fiberhome.\n\nCaso a luz vermelha acenda, entre em contato com o nosso suporte no telefone 0800-341-1244 ou (16)3706-8000.\n\nCom4 Data Center agradece seu contato.",
+            "op2" : "Você informou que seu modem não apresenta luz vermelha.\n\nPara a realização de teste de funcionamento, basta você conectar a ponta de um cabo de rede em um notebook, e a outra ponta na entrada 1 de cabo de rede do modem cedido pela Com4 da marca Fiberhome.\n\nApós conectar ambas as pontas conforme descrito, você pode tentar acessar sites e navegar na internet pelo seu notebook.\n\nCaso não seja possível realizar testes com um notebook, tente conectar o cabo de rede em uma Smart-Tv.\n\nEm caso de dúvidas ou auxílio entre em contato com a Central de Atendimento no telefone 0800-341-1244 ou (16)3706-8000.\n\nCom4 Data Center agradece seu contato."
+        },
+
+        "quarta": {
+            "texto1": "Você selecionou a opção 4\n\nPor razões de segurança, precisamos confirmar os dados.\n\nPor gentileza, nos informe o nome completo do titular do contrato:", 
+            "texto2": "Agora, nos informe o CPF/CNPJ do titular do contrato:", 
+            "texto3": "As datas disponíveis para gerarmos os boletos são: 05, 10, 15, 20 e 25.\n\nNos informe a data desejada:",
+            "texto4": "Prezado(a), faremos a validação dos dados informados acima, e caso estejam todas as informações corretas, abriremos uma solicitação ao setor responsável.\n\nCom4 Data Center agradece seu contato."
+        },
+        
+        "quinta": {
+            "texto1": "Por gentileza, nos informe o CPF/CPNJ do titular do cadastro:",
+            "texto2": "Comprovante verificado e realizado o desbloqueio do link. +"
+        }
+    }
+}
